@@ -1,0 +1,16 @@
+{
+    "nombre": "nombre_test",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuál es la correcta?",
+        "respuestas": ["a", "b", "c", "d"],
+        "correcta": "a"
+      },
+      {
+        "enunciado": "¿Cuál es la erronea?",
+        "respuestas": ["a", "b", "c", "d"],
+        "correcta": "b"
+      }
+    ]
+}
+  
